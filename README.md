@@ -1,4 +1,4 @@
-# Class Components Intro
+# Class Components Intro c
 
 ## Learning Goals
 
